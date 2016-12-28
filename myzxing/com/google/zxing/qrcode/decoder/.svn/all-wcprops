@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/decoder/DecodedBitStreamParser.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/decoder/BitMatrixParser.java
+END
+DataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/decoder/DataBlock.java
+END
+Mode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/decoder/Mode.java
+END
+DataMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/decoder/DataMask.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/decoder/Decoder.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/decoder/Version.java
+END
+ErrorCorrectionLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java
+END
+FormatInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/decoder/FormatInformation.java
+END

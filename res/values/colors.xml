@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="station_detail_color">#ff333333</color>
+    <color name="no_color">#00000000</color>
+    <color name="seach_bar_bg">#dae1e7</color>
+    <!-- 页面中没有标明用颜色的地方均采用此颜色 -->
+    <!-- <color name="normal_color">#333333</color> -->
+    <!-- 主体字体颜色 -->
+    <color name="main_color">#4c4c4c</color>
+    <!-- 说明性提示文字颜色 -->
+    <color name="shuoming_color">#999999</color>
+    <color name="list_selected_color">#d9e3ec</color>
+    <color name="list_second_text_color">#90a1ab</color>
+    <!-- 弹出对话框内字体颜色 -->
+    <color name="dialog_txt_color">#FFFFFF</color>
+    <!-- 绿色字体颜色#24ae01 蓝色 #2473d4 2491d3 -->
+    <color name="green_color">#195d9d</color>
+    <!-- 橘红字体颜色 -->
+    <color name="juhong_color">#ff6600</color>
+    <!-- 红色字体颜色 -->
+    <color name="red_color">#ff0000</color>
+    <color name="hui_color">#888888 </color>
+    <color name="list_line_color">#CBCBCB</color>
+    <!-- 二级标题文字颜色 -->
+    <color name="second_title_color">#999999</color>
+    <!-- 主体背景颜色 -->
+    <color name="main_bg_color">#f1f6fa</color>
+    <color name="grey_color">#cccccc </color>
+    <!-- 版本号字体颜色 绿色#166d06橙色  #ff9933 -->
+    <color name="version_color">#ffffff</color>
+    <color name="cache_color">#00000000</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="black_color">#000000</color>
+    <color name="choosen_back_color">#ffe9f5fa</color>
+    <color name="toolbar_bg">#f1f6fa</color>
+    <!-- 无背景按钮颜色 -->
+    <color name="nobg_noraml_color">#90a1ab</color>
+    <color name="nobg_pressed_color">#195e9c</color>
+    <color name="detail_titlebg">#e7eff5</color>
+    <!-- Login 背景色 -->
+    <color name="login_background_color">#fbfbfb</color>
+</resources>

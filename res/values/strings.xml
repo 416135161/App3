@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eposton</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msg_camera_framework_bug">相机故障，请尝试重启应用或重启手机</string>
+    <string name="sure">确定</string>
+
+</resources>

@@ -1,0 +1,7 @@
+package com.internet.intrface;
+
+public interface TopBarClickListener {
+	void leftBtnClick();
+
+	void rightBtnClick();
+}

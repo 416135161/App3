@@ -1,0 +1,7 @@
+package com.internet.intrface;
+
+import com.internet.http.interfaces.data.ResInfo;
+
+public interface OnTargetSelectListener {
+    void onSelectd(ResInfo target);
+}

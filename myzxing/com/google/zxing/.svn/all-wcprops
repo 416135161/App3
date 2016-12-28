@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/BSI/!svn/ver/2361/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing
+END
+MultiFormatWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/MultiFormatWriter.java
+END
+Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/Reader.java
+END
+ResultPointCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/ResultPointCallback.java
+END
+FormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/FormatException.java
+END
+BarcodeFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/BarcodeFormat.java
+END
+DecodeHintType.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/DecodeHintType.java
+END
+NotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/NotFoundException.java
+END
+Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/Writer.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/Result.java
+END
+ChecksumException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/ChecksumException.java
+END
+ReaderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/ReaderException.java
+END
+ResultMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/ResultMetadataType.java
+END
+BinaryBitmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/BinaryBitmap.java
+END
+EncodeHintType.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/EncodeHintType.java
+END
+Binarizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/Binarizer.java
+END
+MultiFormatReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/MultiFormatReader.java
+END
+ResultPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/ResultPoint.java
+END
+WriterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/WriterException.java
+END
+LuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/LuminanceSource.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/detector
+END
+FinderPatternInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/detector/FinderPatternInfo.java
+END
+AlignmentPatternFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/detector/AlignmentPatternFinder.java
+END
+FinderPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/detector/FinderPattern.java
+END
+Detector.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/detector/Detector.java
+END
+AlignmentPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/detector/AlignmentPattern.java
+END
+FinderPatternFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/qrcode/detector/FinderPatternFinder.java
+END

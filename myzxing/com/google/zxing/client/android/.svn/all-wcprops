@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/BSI/!svn/ver/2361/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android
+END
+CaptureActivityHandler2.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/BSI/!svn/ver/2361/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/CaptureActivityHandler2.java
+END
+DecodeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BSI/!svn/ver/2361/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/DecodeHandler.java
+END
+DecodeHandler2.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BSI/!svn/ver/2361/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/DecodeHandler2.java
+END
+InactivityTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/InactivityTimer.java
+END
+Intents.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/Intents.java
+END
+FinishListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/FinishListener.java
+END
+DecodeFormatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/DecodeFormatManager.java
+END
+ViewfinderResultPointCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/ViewfinderResultPointCallback.java
+END
+DecodeThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BSI/!svn/ver/2361/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/DecodeThread.java
+END
+Contents.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/Contents.java
+END
+DecodeThread2.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BSI/!svn/ver/2361/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/DecodeThread2.java
+END
+ViewfinderView.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/BSI/!svn/ver/2361/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/ViewfinderView.java
+END
+CaptureActivityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/BSI/!svn/ver/2361/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/CaptureActivityHandler.java
+END
+PlanarYUVLuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/client/android/PlanarYUVLuminanceSource.java
+END

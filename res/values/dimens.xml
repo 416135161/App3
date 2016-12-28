@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 大标题 字体大小26px -->
+    <dimen name="title_font_size">18.0sp</dimen>
+    <dimen name="version_font_size">20sp</dimen>
+    <!-- 返回按钮字体大小20px -->
+    <dimen name="back_btn_font_size">14sp</dimen>
+    <!-- 二级滑动菜单 24px -->
+    <dimen name="cursor_font_size">16sp</dimen>
+    <!-- 主体文字24px -->
+    <dimen name="main_font_size">16sp</dimen>
+    <!-- 说明提示性文字18px -->
+    <dimen name="shuoming_font_size">14sp</dimen>
+    <!-- 二级标题文字18px -->
+    <dimen name="second_title_font_size">12sp</dimen>
+    <!-- 弹出对话框字体24px -->
+    <dimen name="dialog_font_size">16sp</dimen>
+    <!-- 下面tab页标题文字13 -->
+    <dimen name="tab_page_title_font_size">13sp</dimen>
+<!--   垂直列表表单间距 -->
+     <dimen name="linearLayout_item_margin">3dp</dimen>
+    <!-- 标题返回按钮内边距 --> 
+    <dimen name="backbtn_paddingleft">20px</dimen>
+    <dimen name="backbtn_paddingright">15px</dimen>
+    <dimen name="backbtn_paddingtop">0px</dimen>
+    <dimen name="backbtn_paddingbottom">0px</dimen>
+    <!-- 标题内边距 -->
+    <dimen name="title_paddingleft">10dp</dimen>
+    <dimen name="title_paddingright">10dp</dimen>
+    <dimen name="title_paddingtop">0dp</dimen>
+    <dimen name="title_paddingbottom">0dp</dimen>
+    <!-- 所有底部按钮右下边距如：保存 提交按钮 -->
+    <dimen name="bottom_paddingright">8dp</dimen>
+    <dimen name="bottom_paddingbottom">5dp</dimen>
+    <dimen name="bottom_paddingtop">5dp</dimen>
+    <!-- 底部按钮组右边距 -->
+    <dimen name="bottom_btngroup_marginright">5dp</dimen>
+     <!-- 输入框上下左右内边距 -->
+    <dimen name="edit_paddingleft">8dp</dimen>
+    <dimen name="edit_paddingright">8dp</dimen>
+    <dimen name="edit_paddingtop">4dp</dimen>
+    <dimen name="edit_paddingbottom">4dp</dimen>
+    <!-- 单行输入框 -->
+    <!-- 聊天消息及搜索 编辑框高度 -->
+    <dimen name="singleline_edit_height">40dp</dimen>
+    <!-- 单行输入框上下左右内边距 -->
+    <dimen name="singleline_edit_paddingleft">8dp</dimen>
+    <dimen name="singleline_edit_paddingright">8dp</dimen>
+    <dimen name="singleline_edit_paddingtop">4dp</dimen>
+    <dimen name="singleline_edit_paddingbottom">4dp</dimen>
+    <!-- <dimen name="singleline_edit_padding">3dp</dimen> -->
+    <!-- 聊天消息及搜索 编辑框整体上下左右边距 -->
+    <dimen name="singleline_edit_parent_marginleft">10px</dimen>
+    <dimen name="singleline_edit_parent_marginright">12px</dimen>
+    <dimen name="singleline_edit_parent_margintop">12px</dimen>
+    <dimen name="singleline_edit_parent_marginbottom">12px</dimen>
+    <!-- 聊天消息及搜索 编辑框与右边按钮右边距 -->
+    <dimen name="singleline_edit_marginright">10px</dimen>
+
+    <!-- 输入框边距  -->
+    <dimen name="edit_margin">5dp</dimen>
+    
+    <!-- 进度条高度 -->
+    <dimen name="seekbar_height">12dp</dimen>
+    <!-- 列表箭头右边距 -->
+    <dimen name="arrow_padright">0dp</dimen>
+
+    <!-- 照相机界面 -->
+    <!-- 左下角预览图宽高 -->
+    <dimen name="preimage_width">60dp</dimen>
+    <dimen name="preimage_height">50dp</dimen>
+    <!-- 大预览图界面 -->
+    <!-- 整个界面的左右边距 -->
+    <dimen name="photoview_paddinghor">10dp</dimen>
+    <!-- 底部取消删除按钮与上面图片预览高度 -->
+    <dimen name="photoview_bottom_margintop">10dp</dimen>
+    <dimen name="photoview_bottom_marginbottom">10dp</dimen>
+    <!-- 删除按钮右边距 -->
+    <dimen name="photoview_deletebtn_marginright">10dp</dimen>
+
+    <!-- 登陆界面数据 -->
+    <!-- 登陆操作区与大背景的上边距 -->
+    <dimen name="login_padingtop">100dp</dimen>
+    <!-- 登陆操作区与大背景的左右边距 -->
+    <dimen name="login_padingleftright">10dp</dimen>
+    <!-- 记住密码与自动登陆的上边距 -->
+    <dimen name="login_remauto_margintop">20dp</dimen>
+    <!-- 记住密码与自动登陆的下边距 -->
+    <dimen name="login_remauto_marginbottom">20dp</dimen>
+    <!-- 记住密码与自动登录间隔 -->
+    <dimen name="login_rempassword_marginright">30dp</dimen>
+    <!-- 登录按钮下边距 -->
+    <dimen name="login_loginbtn_marginbottom">30dp</dimen>
+    <!-- 登录按钮宽度 -->
+    <dimen name="login_loginbtn_width">250dp</dimen>
+
+    <!-- 巡检或抽查列表界面 数据 -->
+    <!-- 滑动TAB标题高度 -->
+    <dimen name="basepoll_tab_height">30dp</dimen>
+    <!-- 游标宽度 -->
+    <dimen name="basepoll_cursor_width">100dp</dimen>
+    <!-- 巡检或抽查任务执行项输入框宽度 -->
+    <dimen name="task_item_edittext_width">60dp</dimen>
+    <!-- 巡检或抽查任务执行左边描述最大宽度 -->
+    <dimen name="task_item_left_maxwidth">180dp</dimen>
+    <!-- 已巡检或已抽查任务查看itemValue值Textview宽度 -->
+    <dimen name="tasked_item_itemvalue_width">60dp</dimen>
+    <dimen name="basepoll_item_cameraicon_minwidth">30dp</dimen>
+
+    <!-- 隐患上报主界面数据 -->
+    <!-- 游标宽度 -->
+    <dimen name="image_cursor_width">80dp</dimen>
+    <!-- 隐患上报界面可滑动缩略图浏览控件高度 -->
+    <dimen name="troubledetail_gallery_height">60dp</dimen>
+    <!-- 隐患上报填写界面 -->
+    <dimen name="troubledetail_bugedittext_height">150dp</dimen>
+
+    <!-- 隐患处理界面 -->
+    <!-- 隐患描述TextView高度 -->
+    <dimen name="troublehandle_describe_textview_height">60dp</dimen>
+    <!-- 处理意见输入框高度 -->
+    <dimen name="troublehandle_handle_edittext_height">150dp</dimen>
+    <!-- 已处理隐患查看详情界面处理意见TextView高度 -->
+    <dimen name="troublehavehandle_handle_textview_height">80dp</dimen>
+    <!-- 输入框或显示框上下左右边距 -->
+    <dimen name="trouble_edittext_padding_hor">8dp</dimen>
+    <dimen name="trouble_edittext_padding_ver">3dp</dimen>
+
+    <!-- 关于界面图标margin -->
+    <dimen name="about_icon_margintop">30dp</dimen>
+    <dimen name="about_icon_marginbottom">10dp</dimen>
+    <!-- 公司信息文本左右边距 -->
+    <dimen name="about_text_leftrightmargin">12dp</dimen>
+    <dimen name="about_text_topmargin">20dp</dimen>
+
+    <!-- 按钮与背景栏上、下边距 -->
+    <dimen name="btn_up_down_distance">1dip</dimen>
+
+    <!-- 副标滑动菜单偏移Y -->
+    <dimen name="small_menu_scroll_dis_y">2dp</dimen>
+    <!-- 工单-回单-执行情况输入框高度 -->
+    <dimen name="order_performance_textarea_height">80dp</dimen>
+    <dimen name="order_single_textarea_height">150dp</dimen>
+   <!-- 单行绿色按钮样式 -->
+    <dimen name="green_btn_width">250dp</dimen>
+    <dimen name="seachbar_margin">5dp</dimen>
+    <dimen name="seachbar_input_width">200dp</dimen>
+     <dimen name="pic_gallery_height">60dp</dimen>
+     
+     <!-- 隐患详情界面左侧文本宽度 -->
+     <dimen name="fault_detail_left_text_width">90dp</dimen>
+     <!-- 考勤打卡列表中的文本大小 -->
+     <dimen name="punch_list_text_size">14sp</dimen>
+</resources>

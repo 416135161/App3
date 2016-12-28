@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned
+END
+Code128Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/Code128Writer.java
+END
+EAN13Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/EAN13Writer.java
+END
+ITFReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/ITFReader.java
+END
+UPCEANExtensionSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/UPCEANExtensionSupport.java
+END
+OneDReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/OneDReader.java
+END
+UPCEANWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/UPCEANWriter.java
+END
+Code93Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/Code93Reader.java
+END
+Code39Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/Code39Reader.java
+END
+UPCAReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/UPCAReader.java
+END
+EAN8Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/EAN8Reader.java
+END
+CodaBarReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/CodaBarReader.java
+END
+ITFWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/ITFWriter.java
+END
+UPCEReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/UPCEReader.java
+END
+MultiFormatUPCEANReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/MultiFormatUPCEANReader.java
+END
+Code39Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/Code39Writer.java
+END
+EANManufacturerOrgSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/EANManufacturerOrgSupport.java
+END
+EAN8Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/EAN8Writer.java
+END
+Code128Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/Code128Reader.java
+END
+EAN13Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/EAN13Reader.java
+END
+MultiFormatOneDReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/MultiFormatOneDReader.java
+END
+UPCEANReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/BSI/!svn/ver/2255/%E5%BC%80%E5%8F%91%E5%8C%BA/04%E7%BC%96%E7%A0%81/InspectionSystemQS/myzxing/com/google/zxing/oned/UPCEANReader.java
+END

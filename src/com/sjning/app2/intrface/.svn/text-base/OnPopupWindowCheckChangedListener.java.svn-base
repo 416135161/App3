@@ -1,0 +1,15 @@
+package com.internet.intrface;
+
+/**
+ * PopupWindow中的checkbox的变化监听接口
+ * @author Administrator
+ *
+ */
+public interface OnPopupWindowCheckChangedListener {
+    
+    /**
+     * checkbox修改事件的回调函数
+     * @param isCheckChanged
+     */
+    public void onItemCheckChanged(boolean isCheckChanged);
+}

@@ -1,0 +1,7 @@
+package com.internet.intrface;
+
+public interface HttpReqCallback {
+	void requestDataBack(Object object, int witch);
+
+	void handleException(int id);
+}
