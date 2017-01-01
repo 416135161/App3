@@ -317,7 +317,7 @@ public class MainActivity extends Activity implements OnClickListener {
 					deleteDialog.dismiss();
 				}
 			});
-			deleteDialog = new AlertDialog.Builder(this).setView(view).create();
+			deleteDialog = new AlertDialog.Builder(this).setTitle("删除提示").setView(view).create();
 			deleteDialog.setCanceledOnTouchOutside(true);
 			deleteDialog.show();
 			break;

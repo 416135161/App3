@@ -54,6 +54,12 @@ public class SMSHandler extends Handler
 				List<String> childItems = new ArrayList<String>();
 				Collections.addAll(childItems, dates);
 				item.setChildItems(childItems);
+				
+				if(item.getPhone().length() > 11){
+					String phone = item.getPhone();
+					phone = phone.substring(phone.length() -11);
+					item.setPhone(phone);
+				}
 				return true;
 			}
 		}
